@@ -2,6 +2,7 @@
 
 Welcome to the OLA Data Analyst Project! This project is a deep dive into ride-hailing data using SQL, Excel, and Power BI to derive actionable insights and improve operational efficiency.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🎯 Project Goals
 
@@ -35,6 +36,7 @@ Welcome to the OLA Data Analyst Project! This project is a deep dive into ride-h
 
 Remaining > ₹1000
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🗂️ Files in This Project
 
@@ -46,6 +48,7 @@ Remaining > ₹1000
 
 📁 README.md: Project documentation (this file!).
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🔍 SQL Analysis
 
@@ -71,6 +74,7 @@ Remaining > ₹1000
 
 🔍 Incomplete rides and their reasons.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📊 Power BI Dashboard
 
@@ -96,6 +100,8 @@ Remaining > ₹1000
 
 🤝 Customer vs. Driver Ratings
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 🛠️ How to Use This Project
 
@@ -105,6 +111,7 @@ Excel: Open bookings.xlsx for a snapshot of raw data.
 
 Power BI: Load dashboard.pbix to explore insights visually.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🧩 Future Improvements
 
